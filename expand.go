@@ -1,4 +1,4 @@
-package expand
+package binaryExpand
 
 import (
 	"debug/pe"
